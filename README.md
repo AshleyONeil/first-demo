@@ -1,1 +1,3 @@
 # first-demo
+
+Hello class!
